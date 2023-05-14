@@ -36,6 +36,8 @@ public class Main {
 
         System.out.println("Ivan Ricardo");
 
+        int numero = 12;
+
 
 
     }
